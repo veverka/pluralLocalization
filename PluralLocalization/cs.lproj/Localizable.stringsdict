@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>You have %ld Message(s)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@zprava@</string>
+		<key>zprava</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>zero</key>
+			<string>nemáte žádné zprávy</string>
+			<key>one</key>
+			<string>máte pouze jednu zprávu</string>
+			<key>few</key>
+			<string>máte %ld zprávy</string>
+			<key>many</key>
+			<string>máte %ld zpráv</string>
+			<key>other</key>
+			<string>máte %ld zpráv</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
